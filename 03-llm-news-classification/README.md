@@ -16,4 +16,4 @@ In questo esercizio l'obiettivo è classificare gli articoli del dataset `newsCo
 ## Report e Soluzione
 Il report PDF completo di analisi dettagliate, grafici, metriche comparative e matrici di confusione è disponibile al link sottostante:
 
-[Scarica il Report PDF del Lab 2](./report_classification.pdf)
+[Report Lab 3](./report_classification.pdf)
