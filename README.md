@@ -6,6 +6,6 @@ Raccolta dei report e delle analisi sviluppati per i laboratori del corso di AI 
 
 | Laboratorio | Ambito | Descrizione Breve | Report |
 | :--- | :--- | :--- | :--- |
-| **Lab 1** | Regressione | Predizione dei costi delle corse dei taxi a NYC | [Report](./01-nyc-taxi-regression/report_regression.pdf) |
-| **Lab 2** | Classificazione | Classificazione multi-classe sul dataset Statlog Shuttle | [Report](./02-shuttle-classification/report_classification.pdf) |
-| **Lab 3** | LLM & KNIME | Classificazione di articoli di cronaca tramite integrazione di LLM | [Report](./03-llm-news-classification/report_llm_news.pdf) |
+| [**Lab 1**](./01-nyc-taxi-regression/report_regression.pdf) | Regressione | Predizione dei costi delle corse dei taxi a NYC | 
+| [**Lab 2**](./02-shuttle-classification/report_classification.pdf) | Classificazione | Classificazione multi-classe sul dataset Statlog Shuttle | 
+| [**Lab 3**](./03-llm-news-classification/report_llm_news.pdf) | LLM & KNIME | Classificazione di articoli di cronaca tramite integrazione di LLM | 
