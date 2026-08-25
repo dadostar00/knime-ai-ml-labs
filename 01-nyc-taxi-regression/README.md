@@ -15,4 +15,4 @@ In questo esercizio l'obiettivo è predire l'importo totale (`total_amount`) per
 ## Report e Soluzione
 Il report completo contenente l'analisi metodologica, la descrizione del workflow KNIME, le metriche di errore ($R^2$, RMSE, MAE) e le visualizzazioni grafiche è consultabile direttamente qui:
 
- **[Scarica/Visualizza il Report del Lab 1 (PDF)](./report_regression.pdf)**
+ **[Report Lab 1](./report_regression.pdf)**
