@@ -2,7 +2,7 @@
 
 ## Traccia del Laboratorio
 
-In questo esercizio l'obiettivo è classificare gli articoli del dataset `newsCorpora.csv` nelle quattro categorie (Business, Science and Technology, Entertainment, Health) basandosi sull'attributo `PUBLISHER`, esplorando l'uso di LLM (ChatGPT / GPT-4.5) per supportare la progettazione dei workflow in KNIME.
+In questo esercizio l'obiettivo è classificare gli articoli del dataset `newsCorpora.csv` nelle quattro categorie (Business, Science and Technology, Entertainment, Health) basandosi sull'attributo `PUBLISHER`, esplorando l'uso di LLM per supportare la progettazione dei workflow in KNIME.
 
 **Passaggi principali richiesti:**
 1. Importazione del dataset e gestione dello sbilanciamento delle quattro classi.
@@ -12,3 +12,8 @@ In questo esercizio l'obiettivo è classificare gli articoli del dataset `newsCo
 5. Addestramento del Decision Tree Learner con ottimizzazione del parametro *Minimum Number of Records per Node*.
 6. Consultazione dell'LLM per la risoluzione di problemi di configurazione (ambiente Python/Keras) e la selezione dei range di ottimizzazione degli iperparametri.
 7. Valutazione e confronto dei modelli tramite Scorer, matrici di confusione, Accuracy e Cohen's Kappa.
+
+## Report e Soluzione
+Il report PDF completo di analisi dettagliate, grafici, metriche comparative e matrici di confusione è disponibile al link sottostante:
+
+[Scarica il Report PDF del Lab 2](./report_classification.pdf)
